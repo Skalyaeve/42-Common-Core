@@ -1,10 +1,10 @@
 # 42 Common Core
 This repository is a pointer to the projects from the common core curriculum of school 42 that I have completed. (from the most recent to the oldest)
 
-- [Ft_transcendence]( https://github.com/Skalyaeve/Ft_transcendence):
+- [Ft_transcendence](https://github.com/Skalyaeve/Ft_transcendence):
 "Surprise!"
 
-- [Webserv]( https://github.com/Skalyaeve/Webserv):
+- [Webserv](https://github.com/Skalyaeve/Webserv):
 "This project is here to make you write your own HTTP server. You will be able to test it with a real browser. HTTP is one of the most used protocol on internet. Knowing its arcane will be useful, even if you won't be working on a website."
 
 - [Inception](https://github.com/Skalyaeve/Inception): 
@@ -28,7 +28,7 @@ This repository is a pointer to the projects from the common core curriculum of 
 - [Philosophers](https://github.com/Skalyaeve/Philosophers):
 "Eat, Sleep, Spaghetti, repeat. This project is about learning how threads work by precisely timing a group of philosophers on when to pick up forks and eat spaghetti without dying from hunger."
 
-- [Pipex: https](//github.com/Skalyaeve/Pipex):
+- [Pipex](https://github.com/Skalyaeve/Pipex):
 "This project aims to deepen your understanding of the two concepts that you already know: Redirections and Pipes. It is an introductory project for the bigger UNIX projects that will appear later on in the cursus."
 
 - [Push_swap](https://github.com/Skalyaeve/Push_swap):
