@@ -1,5 +1,5 @@
 # 42
-This repository is a pointer to the various projects I have been able to complete during my time at school 42 (from the most recent to the oldest).
+This repository is a pointer to common core projects I have been able to complete during my time at school 42. (from the most recent to the oldest)
 
 - Ft_transcendence: https://github.com/Skalyaeve/Ft_transcendence
 "Surprise!"
