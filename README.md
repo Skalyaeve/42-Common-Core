@@ -1,6 +1,30 @@
 # 42
 This repository is a pointer to the various projects I have been able to complete during my time at school 42 (from the most recent to the oldest).
 
+- Ft_transcendence: https://github.com/Skalyaeve/Ft_transcendence
+"Surprise!"
+
+- Webserv: https://github.com/Skalyaeve/Webserv
+"This project is here to make you write your own HTTP server. You will be able to test it with a real browser. HTTP is one of the most used protocol on internet. Knowing its arcane will be useful, even if you won't be working on a website."
+
+- Inception: https://github.com/Skalyaeve/Inception
+"This project aims to broaden your knowledge of system administration by using Docker. You will virtualize several Docker images, creating them in your new personal virtual machine."
+
+- Ft_containers: https://github.com/Skalyaeve/Ft_containers
+"The multiple available containers in C++ all have a very different usage. To make sure you understand them all, let's re-implement them!"
+
+- CPP-Modules: https://github.com/Skalyaeve/CPP-Modules
+"Time to dive into Object Oriented Programming!"
+
+- Cub3d: https://github.com/Skalyaeve/Cub3d
+"This project is inspired by the world-famous eponymous 90's game, which was the first FPS ever. It will enable you to explore ray-casting. Your goal will be to make a dynamic view inside a maze, in which you'll have to find your way."
+
+- Net_Practice: https://github.com/Skalyaeve/Net_Practice
+"NetPractice is a general practical exercise to let you discover networking."
+
+- Minishell: https://github.com/Skalyaeve/Philosophers
+"The objective of this project is for you to create a simple shell."
+
 - Philosophers: https://github.com/Skalyaeve/Philosophers
 "Eat, Sleep, Spaghetti, repeat. This project is about learning how threads work by precisely timing a group of philosophers on when to pick up forks and eat spaghetti without dying from hunger."
 
