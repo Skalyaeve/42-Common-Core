@@ -13,7 +13,7 @@ This repository is a pointer to the projects from the Common Core curriculum of 
 - [Ft_containers](https://github.com/Skalyaeve/Ft_containers)
 "The multiple available containers in C++ all have a very different usage. To make sure you understand them all, let's re-implement them!"
 
-- [CPP-Modules](https://github.com/Skalyaeve/CPP-Modules)
+- [CPP Modules](https://github.com/Skalyaeve/CPP-Modules)
 "Time to dive into Object Oriented Programming!"
 
 - [Cub3d](https://github.com/Skalyaeve/Cub3d)
