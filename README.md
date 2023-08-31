@@ -19,7 +19,7 @@ This repository is a pointer to the projects from the Common Core curriculum of 
 - [Cub3d](https://github.com/Skalyaeve/Cub3d)
 "This project is inspired by the world-famous eponymous 90's game, which was the first FPS ever. It will enable you to explore ray-casting. Your goal will be to make a dynamic view inside a maze, in which you'll have to find your way."
 
-- [Net_Practice](https://github.com/Skalyaeve/Net_Practice)
+- [NetPractice](https://github.com/Skalyaeve/NetPractice)
 "NetPractice is a general practical exercise to let you discover networking."
 
 - [Minishell](https://github.com/Skalyaeve/Philosophers)
