@@ -1,5 +1,5 @@
 # 42 Common Core
-This repository is a pointer to the projects from the common core curriculum of school 42 that I have completed. (from the most recent to the oldest)
+This repository is a pointer to the projects from the Common Core Curriculum of school 42 that I have completed. (from the most recent to the oldest)
 
 - [Ft_transcendence](https://github.com/Skalyaeve/Ft_transcendence)
 "Surprise!"
