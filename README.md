@@ -22,7 +22,7 @@ This repository is a pointer to the projects from the Common Core curriculum of 
 - [NetPractice](https://github.com/Skalyaeve/NetPractice)
 "NetPractice is a general practical exercise to let you discover networking."
 
-- [Minishell](https://github.com/Skalyaeve/Philosophers)
+- [Minishell](https://github.com/Skalyaeve/Minishell)
 "The objective of this project is for you to create a simple shell."
 
 - [Philosophers](https://github.com/Skalyaeve/Philosophers)
